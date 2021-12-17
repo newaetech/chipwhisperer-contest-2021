@@ -2,8 +2,8 @@
 
 We're giving away some ChipWhisperer gear. How to participate is simple:
 
-1. Make a new issue, in that issue describe how you'd use a CW305 (FPGA Board) and a capture board (ChipWhisperer-Husky).
-2. If you like any other entries give them a heart.
+1. Make a [new issue](https://github.com/newaetech/chipwhisperer-contest-2021/issues), in that issue describe how you'd use a CW305 (FPGA Board) and a capture board (ChipWhisperer-Husky).
+2. If you like any other entries give them a heart. You can see an [example issue](https://github.com/newaetech/chipwhisperer-contest-2021/issues/1) to give you a feel for the minimum requirements.
 
 See https://www.newae.com/hackingcontest for entry details!
 
