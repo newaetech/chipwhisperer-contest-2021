@@ -3,7 +3,7 @@
 ### The Prizes ###
 *Grand Prize (1 winner)*
 * CW305 Artix FPGA 7A35 Target Board 
-* ChipWhisperer-Husky (a yet-to-be-released tool offering features comparable to our CW-Pro at the CW-Lite price point)
+* ChipWhisperer-Husky (a yet-to-be-released tool)
 * Call with Colin & NewAE Staff for project support
 * The Hardware Hacking Handbook
 
