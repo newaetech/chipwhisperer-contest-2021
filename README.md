@@ -1,13 +1,31 @@
 # NewAE ChipWhisperer Contest 2021!
 
-We're giving away some ChipWhisperer gear. How to participate is simple:
+### The Prizes ###
+*Grand Prize (1 winner)*
+* CW305 Artix FPGA 7A35 Target Board 
+* ChipWhisperer-Husky (a yet-to-be-released tool offering features comparable to our CW-Pro at the CW-Lite price point)
+* 1-on-1 call with Colin O'Flynn for project support
+* The Hardware Hacking Handbook
 
-1. Make a [new issue](https://github.com/newaetech/chipwhisperer-contest-2021/issues), in that issue describe how you'd use a CW305 (FPGA Board) and a capture board (ChipWhisperer-Husky).
-2. If you like any other entries give them a heart. You can see an [example issue](https://github.com/newaetech/chipwhisperer-contest-2021/issues/1) to give you a feel for the minimum requirements.
+### Runner Up Prizes (10 winners) ###
+* Lifetime enrollment in the online course: Power Analysis 101
+* The Hardware Hacking Handbook
 
-See https://www.newae.com/hackingcontest for entry details!
+## How to Enter: ##
 
-## Targets
+* Develop a research project proposal outlining how you will use the ChipWhisperer-Husky and CW305 Artix FPGA Target Board and ChipWhisperer software.
+* Publish a summary of the planned research project, including the distribution of results or resulting software under an open-source license. Submit your proposal on this repository as an Issue (https://github.com/newaetech/chipwhisperer-contest-2021).
+
+## How Winners are Chosen ##
+
+* Submissions will be reviewed by the NewAE Technology Inc. team. Prizes will be awarded based on project merit and how applicable the submission is to the ChipWhisperer project and the greater embedded security community (though thumbs up/hearts may guide our decision-making).
+* One entry per person. The contest closes on December 31, 2021. See Rules and Regulations.
+
+## Additional Rules ##
+
+NO PURCHASE NECESSARY. Open only to 18+. The contest entry period ends December 31, 11:59 pm AT. Contest is void where prohibited or restricted by law or regulation. For Official Rules, see [Contest Official Rules](https://www.newae.com/_files/ugd/f179df_068ebae853564efdb901861e6147d07e.pdf).
+
+## Technical Details on Targets
 
 You'll have a CW305 with Artix A35 to work with (see https://rtfm.newae.com/Targets/CW305%20Artix%20FPGA/) along with a Capture board (the new [ChipWhisperer-Husky](https://www.crowdsupply.com/newae/chipwhisperer-husky)).
 
