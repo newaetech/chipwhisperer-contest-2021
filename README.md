@@ -1,5 +1,7 @@
 # NewAE ChipWhisperer Contest 2021!
 
+** ****CONTEST IS NOW CLOSED FOR NEW ENTRIES**** **
+
 ### The Prizes ###
 *Grand Prize (1 winner)*
 * CW305 Artix FPGA 7A35 Target Board 
@@ -14,7 +16,7 @@
 ## How to Enter: ##
 
 * Develop a research project proposal outlining how you will use the ChipWhisperer-Husky and CW305 Artix FPGA Target Board and ChipWhisperer software.
-* Publish a summary of the planned research project, including the distribution of results or resulting software under an open-source license. Submit your proposal on this repository as an Issue (https://github.com/newaetech/chipwhisperer-contest-2021).
+* Publish a summary of the planned research project, including the distribution of results or resulting software under an open-source license. Submit your proposal on this repository as an Issue [NOW CLOSED - YOU CAN READ ENTRIES STILL]
 
 ## How Winners are Chosen ##
 
@@ -23,7 +25,7 @@
 
 ## Additional Rules ##
 
-NO PURCHASE NECESSARY. Open only to 18+. The contest entry period ends December 31, 11:59 pm AT. Contest is void where prohibited or restricted by law or regulation. For Official Rules, see [Contest Official Rules](https://www.newae.com/_files/ugd/f179df_068ebae853564efdb901861e6147d07e.pdf).
+NO PURCHASE NECESSARY. Open only to 18+. The contest entry period ends December 31, 2021, 11:59 pm AT. Contest is void where prohibited or restricted by law or regulation. For Official Rules, see [Contest Official Rules](https://www.newae.com/_files/ugd/f179df_068ebae853564efdb901861e6147d07e.pdf).
 
 ## Technical Details on Targets
 
